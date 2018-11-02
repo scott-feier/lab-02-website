@@ -12,6 +12,13 @@ The full set of PracticalSeries publications is available at [practicalseries.co
 This repository is a worked example demonstrating how to build a version control project using Git and GitHub from within the Brackets text editor.
 This repository is intended to be used with the accompanying documentation [practicalseries Git and GitHub](http://practicalseries.com/0021-git-vcs/index.html "Practical Series - Git and GitHub").
 
+## Website contents
+This site contains the following pages:
+* index.html
+* 01-intro.html
+* 02-about.html
+* 03-contact.html
+
 ## Contributors
 This repository was constructed by [Michael Gledhill](https://github.com/practicalseries-lab "Michael Gledhill").
 
